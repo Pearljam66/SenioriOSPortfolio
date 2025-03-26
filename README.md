@@ -19,7 +19,7 @@ Below is a growing list of challenges I’ve tackled. Each problem is organized 
 | Async Image Loader       | [/ImageLoader](SenioriOSPortfolio/SenioriOSPortfolio/ImageLoader) | Asynchronous image fetching with caching.      |
 | Expanding Circle View    | [/ExpandingCircleView](SenioriOSPortfolio/SenioriOSPortfolio/ExpandingCircleView) | Custom UIView with animation and gestures. |
 | Custom Stack with Undo   | [/CustomStackWithUndoSupport](SenioriOSPortfolio/SenioriOSPortfolio/CustomStackWithUndoSupport) | Generic stack with undo support for operations. |
-| Rate-Limited API Client  | [/Rate-Limited API Client](SenioriOSPortfolio/SenioriOSPortfolio/Rate-Limited API Client) | Rate-limited JSON fetching with retries.       |
+| Rate-Limited API Client  | [/Rate-Limited API Client](SenioriOSPortfolio/SenioriOSPortfolio/Rate-Limited%20API%20Client) | Rate-limited JSON fetching with retries.       |
 | Animated Progress Ring   | [/AnimatedProgressRing](SenioriOSPortfolio/SenioriOSPortfolio/AnimatedProgressRing) | Circular progress indicator with animation.    |
 | Concurrent Task Scheduler| [/ConcurrentTaskScheduler](SenioriOSPortfolio/SenioriOSPortfolio/ConcurrentTaskScheduler) | Executes async tasks with concurrency limits.  |
 | Binary Search Tree Validator | [/BinarySearchTreeValidator](SenioriOSPortfolio/SenioriOSPortfolio/BinarySearchTreeValidator) | Validates a BST with generic values.       |
