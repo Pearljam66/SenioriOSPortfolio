@@ -12,6 +12,6 @@ Below is a growing list of challenges I’ve tackled. Each problem is organized 
 | Problem                  | Folder                  | Description                                      |
 |--------------------------|-------------------------|--------------------------------------------------|
 | Thread-Safe Linked List  | [/LinkedList](SenioriOSPortfolio/SenioriOSPortfolio/LinkedLists) | A generic, thread-safe linked list implementation. |
-| Async Image Loader       | [/ImageLoader](./ImageLoader) | Asynchronous image fetching with caching.      |
-| Expanding Circle View    | [/ExpandingCircleView](./ExpandingCircleView) | Custom UIView with animation and gestures. |
+| Async Image Loader       | [/ImageLoader](SenioriOSPortfolio/SenioriOSPortfolio/ImageLoader) | Asynchronous image fetching with caching.      |
+| Expanding Circle View    | [/ExpandingCircleView](SenioriOSPortfolio/SenioriOSPortfolio/ExpandingCircleView) | Custom UIView with animation and gestures. |
 
