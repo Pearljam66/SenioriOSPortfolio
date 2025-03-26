@@ -4,6 +4,8 @@ A collection of advanced iOS coding challenges and solutions. Designed as a port
 
 ## Technologies Used
 - Swift
+- UIKit
+- Async/Await
 
 ## Problems & Solutions
 
