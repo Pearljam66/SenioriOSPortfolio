@@ -88,10 +88,10 @@
 		26BD59722D93C65800399AC6 = {
 			isa = PBXGroup;
 			children = (
-				26BD597D2D93C65800399AC6 /* SenioriOSPortfolio */,
 				26BD59942D93C65900399AC6 /* SenioriOSPortfolioTests */,
 				26BD599E2D93C65900399AC6 /* SenioriOSPortfolioUITests */,
 				26BD597C2D93C65800399AC6 /* Products */,
+				26BD597D2D93C65800399AC6 /* SenioriOSPortfolio */,
 			);
 			sourceTree = "<group>";
 		};
